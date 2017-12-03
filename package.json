@@ -1,0 +1,28 @@
+{
+  "name": "helloworld-nodejs",
+  "version": "1.0.0",
+  "description": "Hello world node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muntaswir72562/helloworld-nodejs.git"
+  },
+  "keywords": [
+    "Hello",
+    "world"
+  ],
+  "author": "muntaswir waliyullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muntaswir72562/helloworld-nodejs/issues"
+  },
+  "homepage": "https://github.com/muntaswir72562/helloworld-nodejs#readme"
+}
+
+
+
+
+
