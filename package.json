@@ -1,28 +1,26 @@
 {
-  "name": "helloworld-nodejs",
-  "version": "1.0.0",
-  "description": "Hello world node.js",
+  "name": "@muntaswir/helloworld-nodejs",
+  "version": "0.1.0",
+  "description": "hello world module",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muntaswir72562/helloworld-nodejs.git"
   },
   "keywords": [
-    "Hello",
-    "world"
+    "node.js",
+    "module"
   ],
-  "author": "muntaswir waliyullah",
+  "author": "Muntaswir Waliyullah <muntaswir.mw@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muntaswir72562/helloworld-nodejs/issues"
   },
-  "homepage": "https://github.com/muntaswir72562/helloworld-nodejs#readme"
+  "homepage": "https://github.com/muntaswir72562/helloworld-nodejs#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  }
 }
-
-
-
-
-
