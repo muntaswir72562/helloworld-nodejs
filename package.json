@@ -1,6 +1,6 @@
 {
   "name": "mtsw-helloworld-nodejs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "hello world module",
   "main": "index.js",
   "scripts": {
