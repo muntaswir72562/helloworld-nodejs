@@ -5,11 +5,11 @@
 This is a hello world node.js module
 
 ## Installation
-`npm install @muntaswir/helloworld-nodejs`
+`npm install mtsw-helloworld-nodejs`
 
 ## Usage
 ```
-	var output = require('@muntaswir/helloworld-nodejs')
+	var output = require('mtsw-helloworld-nodejs')
 
 	output will be: Hello World
 ``` 
