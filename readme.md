@@ -10,7 +10,8 @@ This is a hello world node.js module
 ## Usage
 ```
 	var output = require('mtsw-helloworld-nodejs')
-
+	output.hello();
+	
 	output will be: Hello World
 ``` 
 

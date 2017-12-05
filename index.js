@@ -3,6 +3,12 @@
 /**
  * prints hello world
  */
-module.exports = function() {
-    console.log("Hello World");
+ 
+function hello(){
+	console.log("Hello World");
+}
+
+//export the module
+module.exports = {
+    hello
 };
