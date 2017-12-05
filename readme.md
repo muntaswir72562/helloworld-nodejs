@@ -15,6 +15,9 @@ This is a hello world node.js module
 	output will be: Hello World
 ``` 
 
+## Test
+Run `npm test` to see the test status
+
 ## Author
 Muntaswir Waliyullah
 

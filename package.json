@@ -1,11 +1,11 @@
 {
   "name": "mtsw-helloworld-nodejs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "hello world module",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,10 @@
   "homepage": "https://github.com/muntaswir72562/helloworld-nodejs#readme",
   "engines": {
     "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.2"
   }
 }
